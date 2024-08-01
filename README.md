@@ -19,8 +19,4 @@ Reco Union is a project developed as a part of our university initiative to prov
 - **Facilitate Recycling:** Encourage recycling by connecting sellers of e-waste with companies that can recycle it.
 - **Promote Environmental Responsibility:** Raise awareness and promote environmentally responsible practices.
 
-## How to Use
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/reco-union.git
